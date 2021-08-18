@@ -1,3 +1,4 @@
-# Blackjack
+# Python projects and exercises (Only basic Python here)
 
-A simple card game written in Python and played with user inputs. Enjoy!
+## 1) Blackjack
+A simple card game written using basic Python and played with user inputs. I used only lists, functions, loops, conditions and assertion.
